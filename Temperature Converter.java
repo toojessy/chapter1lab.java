@@ -1,3 +1,5 @@
+// Jessica Kamienski
+
 import java.util.Scanner;
 
 public class Temp {
@@ -8,7 +10,7 @@ public class Temp {
         return scanner.nextLine();
     }
     public static void main(String[] args) {
-
+// I used ai
         String input = getInput("Enter temperature in Fahrenheit: ");
         try {
             double fahrenheit = Double.parseDouble(input);
